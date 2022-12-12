@@ -121,11 +121,11 @@ Emerald, The EVM Compatible Paratime is now live on mainnet, and developers are 
 
 ![The DeFi Ecosystem](../images/oasis-network/ecosystem-defi.jpg)
 
-### The $200m Ecosystem Fund
+### The $235m Ecosystem Fund
 
-The Oasis Foundation brought together some of the industry's biggest backers including Binance Labs, Pantera, Dragonfly Capital, Jump Capital, Electric Capital, and more. They all share our vision that privacy is an essential component of successful Web 3 and have pooled together $200m in funding for developers and projects looking to build the next generation of Web 3, DeFi, Metaverse, DAO, and NFT projects on the Oasis Network.
+The Oasis Foundation brought together some of the industry's biggest backers including Binance Labs, Pantera, Dragonfly Capital, Jump Capital, Electric Capital, and more. They all share our vision that privacy is an essential component of successful Web 3 and have pooled together $235m in funding for developers and projects looking to build the next generation of Web 3, DeFi, Metaverse, DAO, and NFT projects on the Oasis Network.
 
-If you want to build on Oasis, you can read more about the Ecosystem Fund [here](https://medium.com/oasis-protocol-project/binance-labs-backs-the-oasis-ecosystem-fund-to-support-the-projects-building-on-oasis-network-f6bcb3be6ee4) or apply to the Ecosystem Fund through this form [here](https://airtable.com/shrSyNBumurHhf7cd).
+If you want to build on Oasis, you can read more about the Ecosystem Fund [here](https://medium.com/oasis-protocol-project/the-oasis-ecosystem-fund-reaches-235-million-6a4db2cd9370) or apply to the Ecosystem Fund through this form [here](https://airtable.com/shrSyNBumurHhf7cd).
 
 ### Grants & DevAccelerator
 
